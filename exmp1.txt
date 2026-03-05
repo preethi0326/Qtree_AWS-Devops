@@ -1,1 +1,1 @@
-this is my first text file using gitbash
+this is my first text file
